@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+
+.table tbody tr th {
+	background: #00BFFF;
+	text-align: center;
+	font-size: 14px;
+	color: #fff;
+	height: 37px;
+}
+
+.table tbody tr td {
+	text-align: center;
+	border-left: 1px solid #ECECEC;
+	border-right: 1px solid #ECECEC;
+	border-bottom: 1px solid #ECECEC;
+	font-size: 15px;
+	color: #909090;
+	height: 37px;
+}
+
+.table a {
+	height: 21px;
+	line-height: 21px;
+	padding: 0px 11px;
+	background: #02bafa;
+	border-radius: 10px;
+	color: #fff;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 12px;
+	
+}

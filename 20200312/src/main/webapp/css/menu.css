@@ -1,0 +1,241 @@
+@charset "UTF-8";
+
+.turnback{
+	position: absolute;
+	left: 20%;
+	top: 0%;
+}
+
+.title {
+	border-radius: 40px;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	width: 15%;
+	height: 22%;
+	background: #1E90FF;
+	color: #FFF;
+}
+
+
+.title div {
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: KaiTi;
+}
+
+.title p {
+	text-align: center;
+	height: 30px;
+	display: inline-block;
+	line-height: 30px;
+	font-weight: bold;
+	color: #FFF;
+	margin: 5px 0px 0px 0px;
+}
+
+.menu {
+	position: absolute;
+	left: 0%;
+	top: 22%;
+	width: 15%;
+	height: 80%;
+}
+
+.menu p {
+	text-align: center;
+	border-radius: 25px;
+	height: 40px;
+	line-height: 25px;
+	background: #778899;
+	font-weight: bold;
+	border-bottom: 1px solid #4169E1;
+	cursor: pointer;
+	color: #FFF;
+	line-height: 40px;
+	margin: 17px 0px 17px 0px;
+}
+
+.menu div ul {
+	display: none;
+}
+
+.menu li {
+	height: 24px;
+	line-height: 24px;
+	text-indent: 20px;
+}
+
+.menu li a {
+	border-radius: 25px;
+	height: 30px;
+	color: #FFF;
+	width: 200px;
+	margin: 10px 0px 0px 0px;
+	padding: 0px 0px 0px 8px;
+	text-decoration: none;
+	display: block;
+	background: #6495ED;
+	line-height: 29px;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+.content {
+	position: absolute;
+	left: 15%;
+	top: 15%;
+	width: 80%;
+	height: 80%;
+}
+
+.shortcut0 {
+	border-radius: 40px;
+	position: absolute;
+	left: 35%;
+	top: 0%;
+	width: 11%;
+	height: 15%;
+	background: #6495ED;
+	color: #FFF;
+	text-align: center;
+	font-size: 35px;
+	font-weight: bold;
+	font-family: KaiTi;
+}
+
+.shortcut1 {
+	border-radius: 40px;
+	position: absolute;
+	left: 48%;
+	top: 0%;
+	width: 11%;
+	height: 15%;
+	background: #008B8B;
+	color: #FFF;
+	text-align: center;
+	font-size: 35px;
+	font-weight: bold;
+	font-family: KaiTi;
+}
+
+.shortcut2 {
+	border-radius: 40px;
+	position: absolute;
+	left: 61%;
+	top: 0%;
+	width: 11%;
+	height: 15%;
+	background: #48D1CC;
+	color: #FFF;
+	text-align: center;
+	font-size: 35px;
+	font-weight: bold;
+	font-family: KaiTi;
+}
+
+.shortcut3 {
+	border-radius: 40px;
+	position: absolute;
+	left: 74%;
+	top: 0%;
+	width: 11%;
+	height: 15%;
+	background: #228B22;
+	color: #FFF;
+	text-align: center;
+	font-size: 35px;
+	font-weight: bold;
+	font-family: KaiTi;
+}
+
+.shortcut4 {
+	border-radius: 40px;
+	position: absolute;
+	left: 87%;
+	top: 0%;
+	width: 11%;
+	height: 15%;
+	background: #FF6347;
+	color: #FFF;
+	text-align: center;
+	font-size: 35px;
+	font-weight: bold;
+	font-family: KaiTi;
+}
+
+.shortcut0 p {
+	text-align: center;
+	height: 30px;
+	display: inline-block;
+	line-height: 30px;
+	font-weight: bold;
+	color: #FFF;
+	margin: 5px 0px 0px 0px;
+}
+.shortcut1 p {
+	text-align: center;
+	height: 30px;
+	display: inline-block;
+	line-height: 30px;
+	font-weight: bold;
+	color: #FFF;
+	margin: 5px 0px 0px 0px;
+}
+.shortcut2 p {
+	text-align: center;
+	height: 30px;
+	display: inline-block;
+	line-height: 30px;
+	font-weight: bold;
+	color: #FFF;
+	margin: 5px 0px 0px 0px;
+}
+.shortcut3 p {
+	text-align: center;
+	height: 30px;
+	display: inline-block;
+	line-height: 30px;
+	font-weight: bold;
+	color: #FFF;
+	margin: 5px 0px 0px 0px;
+}
+.shortcut4 p {
+	text-align: center;
+	height: 30px;
+	display: inline-block;
+	line-height: 30px;
+	font-weight: bold;
+	color: #FFF;
+	margin: 5px 0px 0px 0px;
+}
+
+.shortcut0 img{
+	border-radius: 50%;
+	width: 70px;
+	height: 70px;
+}
+.shortcut1 img{
+	border-radius: 50%;
+	width: 70px;
+	height: 70px;
+}
+.shortcut2 img{
+	border-radius: 50%;
+	width: 70px;
+	height: 70px;
+}
+.shortcut3 img{
+	border-radius: 50%;
+	width: 70px;
+	height: 70px;
+}
+.shortcut4 img{
+	border-radius: 50%;
+	width: 70px;
+	height: 70px;
+}
+
+
+
